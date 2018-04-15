@@ -1618,148 +1618,148 @@
 "../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1618
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Intermediate/AssetRegistryCache/311563bb.bin" 1619
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Intermediate/AssetRegistryCache/c90e3f55.bin" 1620
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/Credits.umap" 1621
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/Vacuum_Battle.umap" 1622
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Blurry_Dirty_LivingRoom.uasset" 1623
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Blurry_Dirty_LivingRoom_Sprite.uasset" 1624
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Laundry_Monster.uasset" 1625
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Laundry_Monster_Sprite.uasset" 1626
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Speech_Bubble.uasset" 1627
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Speech_Bubble_Sprite.uasset" 1628
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Unreal_Logo.uasset" 1629
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Unreal_Logo_Sprite.uasset" 1630
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/Credits.uasset" 1631
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Config/DefaultEngine.ini" 1632
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1633
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1634
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1635
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1636
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1637
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1638
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1639
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Intermediate/AssetRegistryCache/30e49709.bin" 1640
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 1641
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1642
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1643
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1644
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1645
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1646
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1647
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 1648
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1649
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 1650
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 1651
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 1652
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 1653
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1654
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1655
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1656
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 1657
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1658
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1659
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 1660
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 1661
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 1662
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1663
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 1664
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1665
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1666
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1667
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1668
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1669
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1670
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1671
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1672
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1673
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1674
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1675
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1676
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/MainMenu.umap" 1677
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/166393__questiion__lost-moons-serious-as-an-attack-button.uasset" 1678
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/MainMenu.uasset" 1679
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Assets/Background2.uasset" 1680
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Assets/The_Ordinary_Odyssey_Poster_Transparent.uasset" 1681
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/multimax2121__button-1.uasset" 1682
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/Options.uasset" 1683
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/2/AUDIO_0005_0000_OGG_0001_89FF5DA71649DE59D0986892F6488E4B.udd" 1684
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/8/AUDIO_0005_0000_OGG_0001_AB40D074DB4EF78AE66E3FAA1E00814C.udd" 1685
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7D1B5387A54438F12F909E97D1CBD__7C27D0454237C828398A6DACD5AECAB2E0042C77.udd" 1686
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_06A2E7E0B04A9EEC1C29ED8E743B30A__302A697B72B70470DC82A61162EBD195F7BE53DF.udd" 1687
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1688
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1689
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1690
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1691
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1692
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1693
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1694
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1695
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1696
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1697
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1698
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1699
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1700
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1701
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1702
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1703
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1704
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1705
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1706
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1707
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1708
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1709
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1710
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1711
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1712
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1713
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/WinScreen.uasset" 1714
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Assets/Youwin2.uasset" 1715
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F3B7521BB44667EB2325D7A471E78__18A03783526E36CA872DB69245DB0076E12B3669.udd" 1716
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/Vacuum_Button.uasset" 1717
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/Living_Room_UI.uasset" 1718
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/KitchenDoor_Dirty_Sprite.uasset" 1719
-"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1720
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/KitchenDoor_Dirty.uasset" 1721
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/LaundryRoom_Door_Sprite.uasset" 1722
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/LaundryRoom_Door.uasset" 1723
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/LivingRoom_Filth_Sprite.uasset" 1724
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/LivingRoom_Filth.uasset" 1725
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Sticky_Note4.uasset" 1726
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/UI_Background_Sprite.uasset" 1727
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/UI_Background.uasset" 1728
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Upstairs_Sign_Sprite.uasset" 1729
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Upstairs_Sign.uasset" 1730
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Vacuum_Cleaner_Sprite1.uasset" 1731
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Vacuum_Cleaner.uasset" 1732
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_1D7975274D9D8B706C0A75883752B457__1_1_0_0_2_13315_0.udd" 1733
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_2104B718485C38221B462AB21F5AD215__1_1_0_0_2_13315_0.udd" 1734
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/4/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_D17BA6EE4AE7CE82B2F5B38E65ADADE2__1_1_0_0_2_13315_0.udd" 1735
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F2FB0345428FC7E5F657D2ACFA9E0__29F933EC1E5EC631591A713628865802AD280C46.udd" 1736
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_AC44DB854F478A2D89544AAC17A63__20DBF64698E10677055DA7B6D5CFFEFD94BC14A8.udd" 1737
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/GameOver.uasset" 1738
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Assets/Gameover5.uasset" 1739
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_FC34BBD34AE9E0678B027A958460694__4D5306123CF6EC2F97DE8E546251976C62122BBC.udd" 1740
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_1AC82ED3450384439663C89F328BD06__F7CD87FC613A51473CFC628928950192E2248C90.udd" 1741
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7130DFF24AF3D25BAF6BE1B0E61DC__C6DE0E67283601045AC83A7EF3D90C515345BF28.udd" 1742
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D34F377943417CB20E0C27B60539F__9F54776BBC1909844CB12AEC370B3F1C91C79775.udd" 1743
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B684B520474BC5313045589EB0E9C__92843CA37D8C32EC96AD4115E743BDC39255AB9E.udd" 1744
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_0299281F814D0B918AC5D6923F98AC9__F2AC85AE564AE1DC6215FCDEB7B64409D0D0A86B.udd" 1745
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_07DC8E0D4F4470E69D67A686C8602__B0FBFD7664AD62FD2A3A6737310F84AE81644356.udd" 1746
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D115E27F4B8277536392A7BDD3FAE__317F4FFC2BC355174F9716EC45B76CA39C213508.udd" 1747
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_42918AE74554B1FF3148D8B2EA199C4__4184E9D08554BF880AE68B15EAE9245D10BD1855.udd" 1748
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_69A917C2440B706220BABBAD1875C68__E4A12745504967033F9DB5648E8BC86DBDB1F1FF.udd" 1749
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/Battle_UI.uasset" 1750
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1751
-"../../../Engine/Content/Maps/Entry.umap" 1752
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/WinGame.umap" 1753
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/Defense_Line_Cue.uasset" 1754
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/Defense_Line.uasset" 1755
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Vacuum_Monster_Sprite.uasset" 1756
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Vacuum_Monster.uasset" 1757
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/6/AUDIO_0005_0000_OGG_0001_3FFD9F2A4F3E890B6505B5AFDCE8FCBB.udd" 1758
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1759
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 1760
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_171DA161442630FA3E2718ACDA2DB__81D82DD71F82EC3CFB2786054FD982A5171383FB.udd" 1761
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/GameOver.umap" 1762
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Config/DefaultEngine.ini" 1621
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1622
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1623
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1624
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1625
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1626
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1627
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1628
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Intermediate/AssetRegistryCache/30e49709.bin" 1629
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 1630
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1631
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1632
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1633
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1634
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1635
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1636
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 1637
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1638
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 1639
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 1640
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 1641
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 1642
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1643
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1644
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1645
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 1646
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1647
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1648
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 1649
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 1650
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 1651
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1652
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 1653
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1654
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1655
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1656
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1657
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1658
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1659
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1660
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1661
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1662
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1663
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1664
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1665
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/MainMenu.umap" 1666
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/166393__questiion__lost-moons-serious-as-an-attack-button.uasset" 1667
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/MainMenu.uasset" 1668
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Assets/Background2.uasset" 1669
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Assets/The_Ordinary_Odyssey_Poster_Transparent.uasset" 1670
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/multimax2121__button-1.uasset" 1671
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/Options.uasset" 1672
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/8/AUDIO_0005_0000_OGG_0001_AB40D074DB4EF78AE66E3FAA1E00814C.udd" 1673
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/2/AUDIO_0005_0000_OGG_0001_89FF5DA71649DE59D0986892F6488E4B.udd" 1674
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7D1B5387A54438F12F909E97D1CBD__7C27D0454237C828398A6DACD5AECAB2E0042C77.udd" 1675
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_06A2E7E0B04A9EEC1C29ED8E743B30A__302A697B72B70470DC82A61162EBD195F7BE53DF.udd" 1676
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1677
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1678
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1679
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1680
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1681
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1682
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1683
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1684
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1685
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1686
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1687
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1688
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1689
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1690
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1691
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1692
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1693
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1694
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1695
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1696
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1697
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1698
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1699
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1700
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1701
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1702
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/WinScreen.uasset" 1703
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Assets/Youwin2.uasset" 1704
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F3B7521BB44667EB2325D7A471E78__18A03783526E36CA872DB69245DB0076E12B3669.udd" 1705
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/Vacuum_Button.uasset" 1706
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/Living_Room_UI.uasset" 1707
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/KitchenDoor_Dirty_Sprite.uasset" 1708
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1709
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/KitchenDoor_Dirty.uasset" 1710
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/LaundryRoom_Door_Sprite.uasset" 1711
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/LaundryRoom_Door.uasset" 1712
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/LivingRoom_Filth_Sprite.uasset" 1713
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/LivingRoom_Filth.uasset" 1714
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Sticky_Note4.uasset" 1715
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/UI_Background_Sprite.uasset" 1716
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/UI_Background.uasset" 1717
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Upstairs_Sign_Sprite.uasset" 1718
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Upstairs_Sign.uasset" 1719
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Vacuum_Cleaner_Sprite1.uasset" 1720
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Vacuum_Cleaner.uasset" 1721
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_2104B718485C38221B462AB21F5AD215__1_1_0_0_2_13315_0.udd" 1722
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/4/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_D17BA6EE4AE7CE82B2F5B38E65ADADE2__1_1_0_0_2_13315_0.udd" 1723
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_1D7975274D9D8B706C0A75883752B457__1_1_0_0_2_13315_0.udd" 1724
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F2FB0345428FC7E5F657D2ACFA9E0__29F933EC1E5EC631591A713628865802AD280C46.udd" 1725
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_AC44DB854F478A2D89544AAC17A63__20DBF64698E10677055DA7B6D5CFFEFD94BC14A8.udd" 1726
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/GameOver.uasset" 1727
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_FC34BBD34AE9E0678B027A958460694__4D5306123CF6EC2F97DE8E546251976C62122BBC.udd" 1728
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Assets/Gameover5.uasset" 1729
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_1AC82ED3450384439663C89F328BD06__F7CD87FC613A51473CFC628928950192E2248C90.udd" 1730
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7130DFF24AF3D25BAF6BE1B0E61DC__C6DE0E67283601045AC83A7EF3D90C515345BF28.udd" 1731
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D34F377943417CB20E0C27B60539F__9F54776BBC1909844CB12AEC370B3F1C91C79775.udd" 1732
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B684B520474BC5313045589EB0E9C__92843CA37D8C32EC96AD4115E743BDC39255AB9E.udd" 1733
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_0299281F814D0B918AC5D6923F98AC9__F2AC85AE564AE1DC6215FCDEB7B64409D0D0A86B.udd" 1734
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/Credits.uasset" 1735
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Blurry_Dirty_LivingRoom_Sprite.uasset" 1736
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Blurry_Dirty_LivingRoom.uasset" 1737
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Laundry_Monster_Sprite.uasset" 1738
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Laundry_Monster.uasset" 1739
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Speech_Bubble_Sprite.uasset" 1740
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Speech_Bubble.uasset" 1741
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Unreal_Logo_Sprite.uasset" 1742
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Unreal_Logo.uasset" 1743
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_07DC8E0D4F4470E69D67A686C8602__B0FBFD7664AD62FD2A3A6737310F84AE81644356.udd" 1744
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_42918AE74554B1FF3148D8B2EA199C4__4184E9D08554BF880AE68B15EAE9245D10BD1855.udd" 1745
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D115E27F4B8277536392A7BDD3FAE__317F4FFC2BC355174F9716EC45B76CA39C213508.udd" 1746
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_69A917C2440B706220BABBAD1875C68__E4A12745504967033F9DB5648E8BC86DBDB1F1FF.udd" 1747
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/UI/Battle_UI.uasset" 1748
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1749
+"../../../Engine/Content/Maps/Entry.umap" 1750
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/WinGame.umap" 1751
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/Vacuum_Battle.umap" 1752
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/Defense_Line_Cue.uasset" 1753
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/Defense_Line.uasset" 1754
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Vacuum_Monster_Sprite.uasset" 1755
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Vacuum_Monster.uasset" 1756
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/6/AUDIO_0005_0000_OGG_0001_3FFD9F2A4F3E890B6505B5AFDCE8FCBB.udd" 1757
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1758
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 1759
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_171DA161442630FA3E2718ACDA2DB__81D82DD71F82EC3CFB2786054FD982A5171383FB.udd" 1760
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/GameOver.umap" 1761
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/Credits.umap" 1762
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/X_Button_Sprite.uasset" 1763
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/X_Button.uasset" 1764
 "C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EF48D6A04B3A30B00601E0839737E__0A9B6768474D7AE8CE0EF32760CA0C1434E6865C.udd" 1765
@@ -1776,8 +1776,8 @@
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Sticky_Note3.uasset" 1776
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Sticky_Note2_Sprite.uasset" 1777
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Sticky_Note2.uasset" 1778
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D612F8744FE0AED66E9D188765363__EBD744F08A17FB91976FBE298BCCD54F5CF44A86.udd" 1779
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A28B0B294AA540195FA197BCCCBAF__BA224CC9657883EC7DAF2D9025824CAEF3F231D8.udd" 1780
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A28B0B294AA540195FA197BCCCBAF__BA224CC9657883EC7DAF2D9025824CAEF3F231D8.udd" 1779
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D612F8744FE0AED66E9D188765363__EBD744F08A17FB91976FBE298BCCD54F5CF44A86.udd" 1780
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Rectangle_Button_Sprite.uasset" 1781
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Rectangle_Button.uasset" 1782
 "C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_81407EA549DCC658AB9D32B9C74E6__78EACFE1982C5246E0AF15CFB229B1C7CB8CD904.udd" 1783
@@ -1793,8 +1793,8 @@
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/image.uasset" 1793
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Blurry_LivingRoom_Sprite.uasset" 1794
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Pictures/Background2.uasset" 1795
-"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/Komiku_-_57_-_Quiet_Saturday_Cue.uasset" 1796
-"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2E7C167B4D0AD0634C9BA988A1382__96750A9B2538F3C1D1966425C1092192D044BF80.udd" 1797
+"C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2E7C167B4D0AD0634C9BA988A1382__96750A9B2538F3C1D1966425C1092192D044BF80.udd" 1796
+"../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/Komiku_-_57_-_Quiet_Saturday_Cue.uasset" 1797
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Audio/Komiku_-_57_-_Quiet_Saturday.uasset" 1798
 "C:/Users/LegenDerry/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/AUDIO_0005_0000_OGG_0001_49BAD7E14BB8FAFF2B69DA80F74E340F.udd" 1799
 "../../../../../../Users/LegenDerry/Documents/Unreal Projects/The_Ordinary_Odyssey/Content/Levels/Living_Room.umap" 1800
